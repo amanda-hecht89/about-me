@@ -2,7 +2,7 @@
 
 // grab DOM elements
 const showButton = document.getElementById('anibutton');
-const animal = document.getElementById('animalDev');
+const animal = document.getElementById('animalDiv');
 console.log(showButton, animal);
 // set event listeners 
 showButton.addEventListener('click', ()=> {
